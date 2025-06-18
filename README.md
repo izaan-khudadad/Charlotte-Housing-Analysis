@@ -36,5 +36,3 @@ This project explores how environmental and structural housing features impact *
 - R (for GAM and visualizations)
 - Jupyter Notebook / PDF Report
 
-## 📁 File Structure
-
